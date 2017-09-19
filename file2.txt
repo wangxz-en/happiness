@@ -1,2 +1,4 @@
 <?php
 echo 'I am file2';
+echo 'I am file2';
+echo 'I am file2';
