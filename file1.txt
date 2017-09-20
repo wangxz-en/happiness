@@ -1,2 +1,2 @@
-<?php
 echo 'I am file1';
+I am a php programmer.
