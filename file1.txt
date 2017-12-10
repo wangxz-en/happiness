@@ -1,2 +1,3 @@
 <?php
 echo 'I am file1';
+echo 'Do you want to here to die?';
